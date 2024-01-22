@@ -3,7 +3,7 @@
   <img src="https://telegra.ph/file/fa8f0bcb6a54ddd6fb0e9.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
-  <b> ♡ 𝙎𝘼𝘿𝙄𝙀 𝙎𝙄𝙉𝙆 ❥‌ 🦋 </b>
+  <b> ♡ 𝙎𝘼𝘿𝙄𝙀 𝙎𝙄𝙉𝙆 ❥‌</b>
 </h1>
 
 <a href="https://t.me/CCHDMovie">
