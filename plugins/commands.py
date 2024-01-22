@@ -42,10 +42,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('sᴜʀᴘʀɪsᴇ', callback_data='start')
+            InlineKeyboardButton('ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ ᴍᴏʀᴇ ʙᴜᴛᴛᴏɴs', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAIRXWPwk0pEl5t6ye9pbzsiN0B9o_VNAAInAQACyJRkFOI9YoCRRKaaHgQ") 
+        m=await message.reply_sticker("CAACAgIAAxkBAAJi3mWulJFEf45c0r1d1-uuI2HoKz8PAAKoFwACtsVJSbiqhcrznwlbHgQ") 
         await asyncio.sleep(2)
         await m.delete()        
         await message.reply_photo(
