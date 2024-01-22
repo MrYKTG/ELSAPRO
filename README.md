@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠E+𝗧𝗢+𝙎𝘼𝘿𝙄𝙀𝙎𝙄𝙉𝙆+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗠𝗿𝗬𝗞+𝗕𝗢𝗧S!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/638e35fea060681e2e28b.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://telegra.ph/file/fa8f0bcb6a54ddd6fb0e9.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
   <b> ♡ 𝙎𝘼𝘿𝙄𝙀 𝙎𝙄𝙉𝙆 ❥‌ 🦋 </b>
