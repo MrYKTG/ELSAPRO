@@ -189,3 +189,14 @@ Docker-compose]
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL 2.0.](https://github.com/Devil-Botz/Elsa-V3/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+
+
+## Dɪsᴄʟᴀᴍɪɴᴇʀ
+
+<b>- Tʜɪs Is OᴘᴇɴSᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Sᴏ Dᴏɴ'ᴛ Sᴇʟʟ Tʜɪs Rᴇᴘᴏ Fᴏʀ Mᴏɴᴇʏ
+
+- Pʟᴇᴀsᴇ Dᴏɴ'ᴛ Cʜᴀɴɢᴇ "Uᴘᴅᴀᴛᴇs" Bᴜᴛᴛᴏɴ Lɪɴᴋ
+
+- Iғ Yᴏᴜ Lɪᴋᴇ Tʜᴇ Rᴇᴩᴏ Mᴇᴀɴs Gɪᴠᴇ Sᴛᴀʀᴛ
+
+- Mʏ 3ᴍᴏɴᴛʜ ᴏғ HᴀʀᴅWᴏʀᴋ </b>
