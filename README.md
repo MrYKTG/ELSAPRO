@@ -69,9 +69,9 @@
 
  This is a [ELSA](https://github.com/Devil-Botz/Elsa) clone Project 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁](https://github.com/Devil-Botz/Elsa)
 
- Thanks To [Devil-Botz](https://github.com/Devil-Botz) Contributor Add more features
+ Thanks To [Devil-Botz](https://github.com/Devil-Botz) more features
 
- Thanks To [Joelkb](https://github.com/Joelkb) Contributor [Add Redirect feature,Error fixed, Add new features]
+ Thanks To [Joelkb](https://github.com/Joelkb) Contributor new features]
 
  Thanks To [Mahesh](https://github.com/Mahesh0253/Media-Search-bot) MediaSearch
 
